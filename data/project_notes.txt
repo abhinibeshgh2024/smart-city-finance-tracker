@@ -1,0 +1,24 @@
+SCF-001 Smart LED Street Lighting:
+The project replaces conventional streetlights with LED lights and installs remote monitoring sensors. The revised cost increased from 42.0 crore to 48.5 crore because additional poles required replacement and the city added adaptive dimming sensors.
+
+SCF-002 Integrated Traffic Management System:
+This project includes smart signals, traffic cameras, automatic number plate recognition, and a traffic control dashboard. The project is delayed because camera installation permissions and fiber connectivity took longer than planned.
+
+SCF-003 Smart Water Metering Pilot:
+The city installed smart water meters in selected wards. The project was completed with a moderate cost increase caused by imported meter price variation and integration with the billing system.
+
+SCF-004 Public WiFi Hotspots:
+Public WiFi hotspots were installed in transport hubs and public spaces. The final scope was reduced, so the project completed below revised cost.
+
+SCF-005 Smart Parking Management:
+The system introduces sensor-based parking availability, mobile payments, and enforcement dashboards. Cost overrun is high because of civil works redesign, payment gateway integration, and additional signage.
+
+SCF-006 Waste Collection Route Optimization:
+The project uses GPS devices and route optimization software for waste vehicles. It had a small delay because GPS devices took longer to install across the fleet.
+
+SCF-007 Command and Control Center:
+The command center integrates feeds from traffic, safety, emergency, and utility systems. It has a major cost escalation because of server upgrades, cybersecurity scope expansion, and additional video wall capacity.
+
+SCF-008 EV Charging Stations Network:
+The city is building charging stations in public parking and transport hubs. Actual spend is below revised cost because several proposed sites are waiting for electricity utility approvals.
+
